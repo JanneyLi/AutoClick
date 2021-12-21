@@ -28,5 +28,5 @@ To blblwater 大羽
 
 ## Donate 
 
-<img src="https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg" width="400" height="400" alt="aaa"/><br/>
+<img src="https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg" width="450" height="450" alt="Donate coffee"/><br/>
 
