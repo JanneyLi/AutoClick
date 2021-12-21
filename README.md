@@ -25,7 +25,7 @@ CMD （win+R  Input cmd）With Below Command:
 
 ## Donate 
 
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/Img/20160615165142.png)
+![image](https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg)
 
 ## Thanks 
 To blblwater 大羽
