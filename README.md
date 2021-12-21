@@ -22,10 +22,11 @@ CMD （win+R  Input cmd）With Below Command:
 4.	Save Image to Img Folder.
 6.	Run Python AutoClick.py 
 
+## Thanks 
+To blblwater 大羽
+
 
 ## Donate 
 
-![image](https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg)
+<img src="https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg" width="400" height="400" alt="aaa"/><br/>
 
-## Thanks 
-To blblwater 大羽
