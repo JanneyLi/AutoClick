@@ -30,3 +30,12 @@ To blblwater 大羽
 
 <img src="https://github.com/JanneyLi/AutoClick/blob/main/img/WechatDonate.jpg" width="450" height="450" alt="Donate coffee"/><br/>
 
+## Package Py To Exe
+
+```
+
+   pip install pyinstaller
+
+   pyinstaller -F --icon=favicon.ico AutoClick.py
+
+```
